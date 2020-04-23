@@ -23,8 +23,8 @@ To win we have to get sum of all cards as close to 21.
 3. hit_or_stand(): Ask user to hit(add card) or stand(stop adding cards)
 4. show_some(): shows player all cards and dealers all card except one hidden card
 5. show_all(): show all cards of player and dealer including dealer's hidden card
-6.player_busts(): Player value is above 21
-7.player_wins(): Player wins
+6. player_busts(): Player value is above 21
+7. player_wins(): Player wins
 8. dealer_bursts(): Dealer value is above 21
 9. dealer_wins():  Dealer wins
 10 push(): Tie b/w dealer and player
